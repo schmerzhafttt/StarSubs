@@ -80,4 +80,4 @@
 ---
 
 ## 📞 Destek ve İletişim
-Yazılımla ilgili soru, sorun veya geri bildirimleriniz için lütfen **https://gladiatorstech.net.tr/** üzerinden bizimle iletişime geçin. *(Geliştirici bu kısmı kendi bilgileriyle doldurmalıdır.)*
+Yazılımla ilgili soru, sorun veya geri bildirimleriniz için lütfen **https://gladiatorstech.net.tr/** üzerinden bizimle iletişime geçin. 
