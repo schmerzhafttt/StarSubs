@@ -63,7 +63,6 @@
 3.  Size verilen **Lisans Anahtarını** girerek "**Giriş Yap**" butonuna tıklayın.
     *   Lisansınız ilk kez doğrulanıyorsa veya periyodik kontrol gerekiyorsa internet bağlantısı zorunludur.
     *   Doğrulama başarılı olursa, anahtarınız donanım kimliğinizle eşleştirilir ve yerel olarak kaydedilir.
-    *   Bir test anahtarı olan `TEST-KEY-1234` ile de temel işlevselliği deneyebilirsiniz (kısıtlı özelliklerle).
 4.  Ana arayüz açıldığında, sol paneldeki "**Çeviri Ayarları**" bölümüne kendi **DeepL API Anahtarınızı** girin ve "**Kontrol Et**" butonu ile geçerliliğini doğrulayın.
 5.  "**Dosya İşlemleri**" bölümünden çevirmek istediğiniz `.ass` dosyasını "**Giriş Dosyası**" olarak seçin.
 6.  Çevrilmiş dosyanın kaydedileceği yeri ve adını "**Çıkış Dosyası**" olarak belirleyin.
@@ -81,4 +80,4 @@
 ---
 
 ## 📞 Destek ve İletişim
-Yazılımla ilgili soru, sorun veya geri bildirimleriniz için lütfen **[Destek Kanalı/E-posta Adresi/Web Sitesi]** üzerinden bizimle iletişime geçin. *(Geliştirici bu kısmı kendi bilgileriyle doldurmalıdır.)*
+Yazılımla ilgili soru, sorun veya geri bildirimleriniz için lütfen **https://gladiatorstech.net.tr/** üzerinden bizimle iletişime geçin. *(Geliştirici bu kısmı kendi bilgileriyle doldurmalıdır.)*
